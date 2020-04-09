@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="javapro:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="005b8639-e826-4734-8a2d-b30097ee6fa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YyXKFEHrOaDS37SHcT86FfRDTH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/com/col" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.col" />
+      <recent name="com.collection" />
+      <recent name="com.gui" />
+      <recent name="compa.excep" />
+      <recent name="com.midi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com/col" />
+      <recent name="$PROJECT_DIR$/com/collection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.a">
+    <configuration name="Jukebox5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.col.Jukebox5" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.col.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jukebox6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.col.Jukebox6" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.col.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortMountains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.col.SortMountains" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.col.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGene1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.col.TestGene1" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.col.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.col.am.a" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.col.am.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Jukebox5" />
+      <item itemvalue="Application.Jukebox6" />
+      <item itemvalue="Application.TestGene1" />
+      <item itemvalue="Application.SortMountains" />
+      <item itemvalue="Application.a" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.a" />
+        <item itemvalue="Application.Jukebox6" />
+        <item itemvalue="Application.TestGene1" />
+        <item itemvalue="Application.SortMountains" />
+        <item itemvalue="Application.Jukebox5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005b8639-e826-4734-8a2d-b30097ee6fa4" name="Default Changelist" comment="" />
+      <created>1583915741851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583915741851</updated>
+      <workItem from="1583915743320" duration="53252000" />
+      <workItem from="1584459460622" duration="399000" />
+      <workItem from="1584501461345" duration="1470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1584456564011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1584456564011" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583936751569">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583936751569" />
+    <state x="454" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584029067572">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="454" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1584029067572" />
+    <state x="773" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1584348509299">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="256" key="#com.intellij.ide.util.MemberChooser/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584348509299" />
+    <state x="273" y="212" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1584415926573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="273" y="212" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1440.900@0.0.1440.900" timestamp="1584415926572" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1584456284157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="236" key="GridCell.Tab.0.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584353206128" />
+    <state width="1878" height="236" key="GridCell.Tab.0.bottom/-1440.203.1440.832/0.0.1920.1080@0.0.1920.1080" timestamp="1584349798200" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584456284157" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1584456284155">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="236" key="GridCell.Tab.0.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584353206126" />
+    <state width="1878" height="236" key="GridCell.Tab.0.center/-1440.203.1440.832/0.0.1920.1080@0.0.1920.1080" timestamp="1584349798195" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584456284155" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1584456284154">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="236" key="GridCell.Tab.0.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584353206125" />
+    <state width="1878" height="236" key="GridCell.Tab.0.left/-1440.203.1440.832/0.0.1920.1080@0.0.1920.1080" timestamp="1584349798194" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584456284154" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1584456284156">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="236" key="GridCell.Tab.0.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584353206127" />
+    <state width="1878" height="236" key="GridCell.Tab.0.right/-1440.203.1440.832/0.0.1920.1080@0.0.1920.1080" timestamp="1584349798196" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584456284156" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1584417561376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583982870427" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/-1440.203.1440.877/0.0.1920.1035@0.0.1920.1035" timestamp="1583982819937" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584417561376" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1584417561375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583982870425" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center/-1440.203.1440.877/0.0.1920.1035@0.0.1920.1035" timestamp="1583982819935" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584417561375" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1584417561375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583982870425" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left/-1440.203.1440.877/0.0.1920.1035@0.0.1920.1035" timestamp="1583982819934" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584417561375" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1584417561376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583982870426" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right/-1440.203.1440.877/0.0.1920.1035@0.0.1920.1035" timestamp="1583982819936" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584417561376" />
+    <state x="305" y="76" key="SettingsEditor" timestamp="1584509272520">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="305" y="76" key="SettingsEditor/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584509272520" />
+    <state x="229" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584459442534" />
+    <state x="531" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1584501941526">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="531" y="352" key="com.intellij.ide.util.TipDialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584501941526" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1584459561770" />
+    <state x="231" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584432934238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="231" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1584432934238" />
+    <state x="272" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584416404143">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="272" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1584416404143" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584190927079">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584190927079" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/gui/SimpleGuiB.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/col/Jukebox6.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/col/Jukebox6.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/col/Song.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>

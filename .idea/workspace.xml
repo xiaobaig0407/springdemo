@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a66b625-b524-4ddb-a3aa-0c8f4f88fc35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIQSglH32mhmiioc9qdABBjhwu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shuzi" />
+      <recent name="compa.excep" />
+      <recent name="com.Headfirst" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JingTai">
+    <configuration name="JingTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuzi.JingTai" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compa.excep.Test" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compa.excep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuzi.Test" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comda.tpk.Test" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comda.tpk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuzi.TestDemo" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JingTai" />
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a66b625-b524-4ddb-a3aa-0c8f4f88fc35" name="Default Changelist" comment="" />
+      <created>1582627629589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582627629589</updated>
+      <workItem from="1582627634088" duration="39990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom" timestamp="1583915705861">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583839030708" />
+    <state width="1878" height="217" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.1920.1012@0.23.1920.1012" timestamp="1583838073371" />
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583915705861" />
+    <state width="1398" height="294" key="GridCell.Tab.0.center" timestamp="1583915705861">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583839030706" />
+    <state width="1878" height="217" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.1920.1012@0.23.1920.1012" timestamp="1583838073366" />
+    <state width="1398" height="294" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583915705861" />
+    <state width="1398" height="294" key="GridCell.Tab.0.left" timestamp="1583915705860">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583839030705" />
+    <state width="1878" height="217" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.1920.1012@0.23.1920.1012" timestamp="1583838073365" />
+    <state width="1398" height="294" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583915705860" />
+    <state width="1398" height="294" key="GridCell.Tab.0.right" timestamp="1583915705861">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1583839030707" />
+    <state width="1878" height="217" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.1920.1012@0.23.1920.1012" timestamp="1583838073370" />
+    <state width="1398" height="294" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583915705861" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1583915705863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583915705863" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1583915705862">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583915705862" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1583915705862">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583915705862" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1583915705863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583915705863" />
+    <state x="256" y="271" key="SettingsEditor" timestamp="1582628770187">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state x="256" y="271" key="SettingsEditor/-1440.203.1440.877/0.23.1920.1012@0.23.1920.1012" timestamp="1582628770187" />
+    <state x="565" y="161" width="667" height="729" key="find.popup" timestamp="1582705660971">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state x="565" y="161" width="667" height="729" key="find.popup/-1440.203.1440.877/0.23.1920.1012@0.23.1920.1012" timestamp="1582705660971" />
+    <state x="228" y="87" key="new project wizard" timestamp="1583915097734">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="228" y="87" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583915097734" />
+  </component>
+</project>

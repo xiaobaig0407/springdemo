@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+        <bean class="com.spring.di.Student" id="s1">
+            <property name="id">
+                <value>10010</value>
+            </property>
+            <property name="name" value="xiaoming"></property>
+            <property name="age" value="18"></property>
+            <property name="sex" value="boy"></property>
+        </bean>
+
+        <bean id="s2" class="com.spring.di.Student">
+            <constructor-arg name="id" value="20"></constructor-arg>
+            <constructor-arg name="name" value="baitao"></constructor-arg>
+            <constructor-arg name="age" value="15"></constructor-arg>
+            <constructor-arg name="sex" value="girl"></constructor-arg>
+        </bean>
+
+    <bean id="s3" class="com.spring.di.Student">
+        <constructor-arg name="id" value="20"></constructor-arg>
+        <constructor-arg name="name" value="baitao"></constructor-arg>
+        <constructor-arg name="age" value="15"></constructor-arg>
+        <constructor-arg name="sex" value="girl"></constructor-arg>
+        <constructor-arg name="score" value="38.8"></constructor-arg>
+    </bean>
+
+    <bean id="s4" class="com.spring.di.Student" p:id="26" p:age="18"
+          p:score="99" p:teacher-ref="teacher"></bean>
+
+    <bean class="com.spring.di.Student" id="s5">
+        <property name="id" value="10001"></property>
+        <property name="name" value="sansan"></property>
+        <property name="age" value="18"></property>
+        <property name="sex" value="boy"></property>
+        <property name="teacher" ref="teacher"></property>
+        <property name="teacher.name" value="xiaohong"></property>
+    </bean>
+
+    <bean id="teacher" class="com.spring.di.Teacher">
+        <property name="tid">
+           <null></null>
+        </property>
+        <property name="name" value="xiaoming"></property>
+    </bean>
+<!--    内部bean-->
+    <bean class="com.spring.di.Student" id="s6">
+        <property name="id" value="10021"></property>
+        <property name="name" value="REWW"></property>
+        <property name="age" value="18"></property>
+        <property name="sex" value="boy"></property>
+        <property name="teacher">
+            <bean id="tt" class="com.spring.di.Teacher">
+                <property name="tid" value="2222"></property>
+                <property name="name" value="bbbbb"></property>
+            </bean>
+        </property>
+    </bean>
+<!--定义在某个bean内部的bean只能在当前bean中使用-->
+    <!--<bean class="com.spring.di.Student" id="s7">
+        <property name="id" value="10021"></property>
+        <property name="name" value="REWW"></property>
+        <property name="age" value="18"></property>
+        <property name="sex" value="boy"></property>
+        <property name="teacher" ref="tt"></property>
+    </bean>-->
+
+    <bean id="t1" class="com.spring.di.Teacher">
+        <property name="name" value="huang"></property>
+        <property name="tid" value="388"></property>
+        <property name="cls">
+            <list>
+                <value>a</value>
+                <value>b</value>
+                <value>c</value>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="t2" class="com.spring.di.Teacher">
+        <property name="name" value="huang"></property>
+        <property name="tid" value="388"></property>
+        <property name="students">
+            <list>
+               <ref bean="s1"/>
+               <ref bean="s2"/>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="t3" class="com.spring.di.Teacher">
+        <property name="name" value="huangqi"></property>
+        <property name="tid" value="983"></property>
+        <property name="bossMap">
+            <map>
+                <entry>
+                    <key>
+                        <value>24233</value>
+                    </key>
+                    <value>xiaohui</value>
+                </entry>
+                <entry>
+                    <key>
+                        <value>24234</value>
+                    </key>
+                    <value>xiaohong</value>
+                </entry>
+            </map>
+        </property>
+    </bean>
+
+    <bean id="t4" class="com.spring.di.Teacher">
+        <property name="name" value="baibai"></property>
+        <property name="tid" value="99999"></property>
+        <property name="students" ref="students"></property>
+    </bean>
+
+    <util:list id="students">
+            <ref bean="s4"/>
+            <ref bean="s5"/>
+    </util:list>
+
+    <util:map>
+        <entry>
+            <key>
+                <value>baobao</value>
+            </key>
+            <value>tiantian</value>
+        </entry>
+    </util:map>
+
+</beans>

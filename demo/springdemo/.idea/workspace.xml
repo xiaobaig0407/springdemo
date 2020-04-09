@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca22e5dc-9745-44c9-96bc-e98c10e9b085" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7lfmnzcsUvViduwGEnh5fbcaP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (4)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.di.Test" />
+      <module name="springdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.di.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.factorybean.Test" />
+      <module name="springdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.factorybean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.ioc.Test" />
+      <module name="springdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.datasource.Test" />
+      <module name="springdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.mod.Test" />
+      <module name="springdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.mod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.life.Test" />
+      <module name="springdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.life.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca22e5dc-9745-44c9-96bc-e98c10e9b085" name="Default Changelist" comment="" />
+      <created>1586094618158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586094618158</updated>
+      <workItem from="1586094626437" duration="28847000" />
+      <workItem from="1586315914087" duration="17703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586156412919">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.900@0.0.1440.900" timestamp="1586156412919" />
+    <state x="773" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1586361348236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="1031" y="160" key="#com.intellij.ide.util.MemberChooser/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586340602376" />
+    <state x="773" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586361348236" />
+    <state x="773" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1586099013418" />
+    <state x="569" y="138" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586368460705">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="138" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1440.900@0.0.1440.900" timestamp="1586368460705" />
+    <state x="312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586362101199">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1586362101199" />
+    <state x="644" y="192" key="#xdebugger.evaluate" timestamp="1586414065207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="644" y="192" key="#xdebugger.evaluate/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586414065207" />
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1586362646876" />
+    <state width="1878" height="292" key="GridCell.Tab.0.bottom" timestamp="1586415905189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586415905189" />
+    <state width="1398" height="292" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586364237680" />
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586148637789" />
+    <state width="1878" height="292" key="GridCell.Tab.0.center" timestamp="1586415905187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586415905187" />
+    <state width="1398" height="292" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586364237679" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586148637789" />
+    <state width="1878" height="292" key="GridCell.Tab.0.left" timestamp="1586415905184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586415905184" />
+    <state width="1398" height="292" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586364237678" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586148637788" />
+    <state width="1878" height="292" key="GridCell.Tab.0.right" timestamp="1586415905188">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586415905188" />
+    <state width="1398" height="292" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586364237679" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586148637789" />
+    <state width="1878" height="364" key="GridCell.Tab.1.bottom" timestamp="1586414070827">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.1.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586414070827" />
+    <state width="1398" height="293" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586362725124" />
+    <state width="1878" height="257" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586147554680" />
+    <state width="1878" height="364" key="GridCell.Tab.1.center" timestamp="1586414070826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.1.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586414070826" />
+    <state width="1398" height="293" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586362725122" />
+    <state width="1878" height="257" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1586147554679" />
+    <state width="1878" height="364" key="GridCell.Tab.1.left" timestamp="1586414070825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.1.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586414070825" />
+    <state width="1398" height="293" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586362725122" />
+    <state width="1878" height="257" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1586147554679" />
+    <state width="1878" height="364" key="GridCell.Tab.1.right" timestamp="1586414070826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.1.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586414070826" />
+    <state width="1398" height="293" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586362725123" />
+    <state width="1878" height="257" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1586147554680" />
+    <state x="548" y="282" key="IDE.errors.dialog" timestamp="1586416047731">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="282" key="IDE.errors.dialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586416047731" />
+    <state x="186" y="0" width="1024" height="830" key="SettingsEditor" timestamp="1586415777610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="371" y="28" key="SettingsEditor/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586412513472" />
+    <state x="186" y="0" key="SettingsEditor/-1440.203.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1586415777610" />
+    <state x="278" y="23" width="1024" height="830" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586368534772" />
+    <state x="278" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1586147759530" />
+    <state x="600" y="240" width="720" height="629" key="StructurePopup" timestamp="1586412048862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="600" y="240" width="720" height="629" key="StructurePopup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586412048862" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1586190673870" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.830@0.23.1440.830" timestamp="1586150559970" />
+    <state x="639" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1586315930444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="639" y="372" key="com.intellij.ide.util.TipDialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586315930444" />
+    <state x="698" y="198" key="extract.method.dialog" timestamp="1586147394850">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="698" y="198" key="extract.method.dialog/0.23.1440.830@0.23.1440.830" timestamp="1586147394850" />
+    <state x="386" y="85" width="667" height="729" key="find.popup" timestamp="1586161938615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="85" width="667" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586161938615" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586187864613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1586187864613" />
+    <state x="625" y="167" width="670" height="734" key="search.everywhere.popup" timestamp="1586364589250">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="625" y="167" width="670" height="734" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586364589250" />
+    <state x="625" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1586100242486" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/spring/life/Personoma.java</url>
+          <line>27</line>
+          <properties class="com.spring.life.Personoma" method="getSex">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spring/life/AfterHandler.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
