@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--
+         autowire:根据某种策略为非字面量属性赋值
+         autowire="byName||byType"
+         byname：拿spring容器中bean的id和属性名进行比较，如果一致则自动赋值
+         byType:通过spring容器中bean的类型为兼容性的属性赋值，如父类接口都可
+         在使用byType的过程中，要求spring容器中只能有一个能为属性赋值的bean
+         选用建议：
+            问题1当设置autowire属性会作用于该bean中所有的非字面量属性，因此谁都不用
+        CarFather car = new Car();
+    -->
+    <bean id="emp" class="com.spring.auto.Emp" autowire="byType">
+        <property name="eid" value="100"></property>
+        <property name="ename" value="xiaobi"></property>
+    </bean>
+
+    <bean id="cara" class="com.spring.auto.Car">
+        <property name="cid" value="666"></property>
+        <property name="cname" value="dadao"></property>
+    </bean>
+
+
+
+    <bean id="dept" class="com.spring.auto.Dept">
+        <property name="did" value="234"></property>
+        <property name="dname" value="fage"></property>
+    </bean>
+</beans>

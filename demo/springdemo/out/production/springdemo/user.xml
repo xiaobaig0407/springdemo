@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--自己的理解这个是怎么找的呢
+    通过类型来赋值的时候是会去找到一个能够为它赋值的对象进行赋值
+
+    找@组件进行扫描， 不管@componet,@Service,@Controller,@Respository,
+    先找usercontroller下的userService变量，这个是个接口，所以能够找到这个接口指向的实现类即可，也就是找到能
+    够为这个接口赋值的对象就行，
+    找到这个实现类UserServiceImpl，并且它也是处于扫描期，为@Service,找到
+
+    再找UserServiceImpl 下的userDao，这个userDao也是一个接口，找这个接口指向的实现类即可
+    找到这个实现类UserDaoImpl，并且它也是处于扫描期，为@Respository,找到-->
+
+    <!--<context:component-scan>扫描组件：对设置的包下面的类进行扫描，会将加上注解的类作为spring的组件进行加载
+    组件：指spring管理中的bean
+    作为spring的组件进行加载：会自动在spring的配置文件中生成相对应的bean,这些bean的id会以类的首字母小写为值即驼峰命名法
+    相当于注释那部分bean
+
+    <context:include-filter ：在设定的包结构下，再次通过注解或类型具体包含到某个或者某几个类
+    注意：在使用包含时一定要设置use-defalut-filter=false将默认的过滤（即扫描包下所有的类）关闭
+
+    <context:exclude-filter ：在设定的包结构下，再次通过注解或类型排除某个或者某几个类
+    注意：在使用排除时一定要设置use-defalut-filter=true,将默认的过滤（即扫描包下所有的类）打开
+    use-defalut-filter=false= false代表一个都不扫描
+    use-defalut-filter=false= false代表都扫描
+    切记一个<context:componet-scan>可以出现多个include,也可以同时出现多个exclude,但是两个不能同时出现
+    -->
+    <context:component-scan base-package="com.spring.usermod" use-default-filters="true">
+        <!--        注解进行包含是注解的类型-->
+        <!--        <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>-->
+        <!--        类型进行包含是类的类型-->
+        <!--        <context:include-filter type="assignable" expression="com.spring.usermod.service.UserServiceImpl"/>-->
+        <!--        <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Repository"/>-->
+    </context:component-scan>
+
+    <!--
+
+    <bean id="userController" class="com.spring.usermod.controller.UserContoller"></bean>
+    <bean id="userServiceImpl" class="com.spring.usermod.service.UserServiceImpl"></bean>
+    <bean id="userDaoImpl" class="com.spring.usermod.dao.UserDaoImpl"></bean>
+    -->
+</beans>
