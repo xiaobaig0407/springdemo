@@ -56,7 +56,6 @@ class People{
         this.name = name;
 
     }
-
     public void cry(){
         System.out.println("wawa");
     }
