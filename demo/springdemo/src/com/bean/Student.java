@@ -16,8 +16,7 @@ public class Student extends Person{
         this.age = age;
     }
 
-    public Student() {
-    }
+
 
     @Override
     public String getName() {

@@ -18,6 +18,9 @@ public class Person3 implements Comparable<Person3>{
         this.age = age;
     }
 
+    public Person3() {
+    }
+
     public String getName() {
         return name;
     }
@@ -53,5 +56,13 @@ public class Person3 implements Comparable<Person3>{
     @Override
     public int hashCode() {
         return Objects.hash(name, age);
+    }
+
+    @Override
+    public String toString() {
+        return "Person3{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
     }
 }

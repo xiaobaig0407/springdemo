@@ -10,123 +10,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca22e5dc-9745-44c9-96bc-e98c10e9b085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springdemo_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springdemo_jar/springdemo.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Inter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/InterImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/M.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Out5$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Out5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Outer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Outer6$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Outer6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/TestDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/TestDemo$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/TestDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Testx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/InnerAnoy/Y.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/InterClassDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/InternalClassTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outer$Innerdemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outer2$Inner2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outerk$1Intest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outerk$Innter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/Inter/Outerk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Coder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/DemoA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/DemoB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Demop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Employe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Quan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/TestDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/abstracttest/Wolf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Fu4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Fu5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/TestDemo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/TestDemo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Zi4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Zi5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/BokTa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/CC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/DD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/DemoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/IntDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/InterSec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/InterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/LapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/Mouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/Q.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/Testme.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/UPan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/USB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/UsbMouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/intertest/Z.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/DuoDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/DuoDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/DuoTai.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Pig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Wangsi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Wangxiaosan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/ZaDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/毕姥爷.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/polymore/毕老师.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/packagetest/JarDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/packagetest/pac/DemoA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/packagetest/pam/DemoOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/springdemo/com/packagetest/pam/PackageDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/InnerAnoy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/InnerAnoy/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/InnerAnoy/TestDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/InnerAnoy/Testx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/Inter/InterClassDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/Inter/InternalClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/abstracttest/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/abstracttest/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/extendstest/TestDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/extendstest/TestDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/intertest/InterSec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/intertest/InterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/intertest/LapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/polymore/DuoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/polymore/DuoDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/polymore/DuoTai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/basic/polymore/Wangxiaosan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collectiontest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packagetest/JarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packagetest/pac/DemoA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packagetest/pam/DemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/packagetest/pam/PackageDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Fut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Fut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/NewPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/NewPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/TestDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/TestDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Zit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/extendstest/Zit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/objtest/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/objtest/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/basic/objtest/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/basic/objtest/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/basic/extendstest/TestDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/extendstest/TestDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/basic/objtest/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/objtest/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springdemo_jar/springdemo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springdemo_jar/springdemo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/bean/Person3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/bean/Person3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/generic/GenericDefineDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/generic/GenericDefineDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/generic/Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/generic/Tool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/MathI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/MathI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/MathImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/MathImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/MyLoggerAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/MyLoggerAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/TestAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/TestAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/TestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aop/TestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/MathI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/MathI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/MathImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/MathImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/MyLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/MyLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/aopxml/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/CarFather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/CarFather.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Dept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Dept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/DeptI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/DeptI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/auto/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/datasource/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/datasource/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/di/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/di/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/di/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/di/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/factorybean/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/factorybean/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/factorybean/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/factorybean/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/ioc/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/ioc/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/ioc/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/ioc/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/jdbctemplate/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/jdbctemplate/Emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/jdbctemplate/TestjdbcTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/jdbctemplate/TestjdbcTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/life/AfterHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/life/AfterHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/life/Personoma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/life/Personoma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/life/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/life/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/mod/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/mod/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/MathI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/MathI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/MathImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/MathImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/MyLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/MyLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/ProxyUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/ProxyUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/ProxyUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/ProxyUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/proxy/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/dao/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/dao/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/dao/UserDaoMybatisImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/dao/UserDaoMybatisImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/springdemo/com/spring/usermod/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bean/Person3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bean/Person3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bean/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/generic/GenericDefineDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generic/GenericDefineDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/generic/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generic/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/jdbctemplate/TestjdbcTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/jdbctemplate/TestjdbcTemplate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,10 +89,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -176,6 +112,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -187,11 +124,12 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -203,27 +141,31 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
-      <recent name="$PROJECT_DIR$/src/com/spring/aop" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.book.service" />
+      <recent name="com.generic" />
       <recent name="com.bean" />
       <recent name="com.basic.objtest" />
       <recent name="com.spring.aopxml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/com/spring/jdbctemplate/conf" />
+      <recent name="$PROJECT_DIR$/src/com/exceptiontest" />
+      <recent name="$PROJECT_DIR$/src/com/generic" />
+      <recent name="$PROJECT_DIR$/lib" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericDefineDemo">
-    <configuration name="GenericDefineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.GenericDefineDemo" />
+  <component name="RunManager" selected="Application.Testj">
+    <configuration name="Testj (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.jdbctemplate.book.Testj" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generic.*" />
+          <option name="PATTERN" value="com.spring.jdbctemplate.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +173,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.GenericDemo" />
-      <module name="springdemo" />
+    <configuration name="Testj (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.jdbctemplate.book.Testj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generic.*" />
+          <option name="PATTERN" value="com.spring.jdbctemplate.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.GenericDemo2" />
+    <configuration name="Testj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.jdbctemplate.book.Testj" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generic.*" />
+          <option name="PATTERN" value="com.spring.jdbctemplate.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,65 +198,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collectiontest.HashSetTest" />
+    <configuration name="TestjdbcTemplate.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collectiontest.*" />
+          <option name="PATTERN" value="com.spring.jdbctemplate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.spring.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.jdbctemplate.TestjdbcTemplate" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collectiontest.MapDemo" />
+    <configuration name="TestjdbcTemplate.testQueryForObjetct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collectiontest.*" />
+          <option name="PATTERN" value="com.spring.jdbctemplate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.life.Test" />
-      <module name="springdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spring.life.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.proxy.Test" />
-      <module name="springdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spring.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.jdbctemplate.TestjdbcTemplate" />
+      <option name="METHOD_NAME" value="testQueryForObjetct" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericDefineDemo" />
-        <item itemvalue="Application.GenericDemo2" />
-        <item itemvalue="Application.GenericDemo" />
-        <item itemvalue="Application.HashSetTest" />
-        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.Testj" />
+        <item itemvalue="Application.Testj (2)" />
+        <item itemvalue="Application.Testj (1)" />
+        <item itemvalue="JUnit.TestjdbcTemplate.testQueryForObjetct" />
+        <item itemvalue="JUnit.TestjdbcTemplate.testQuery" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +270,11 @@
       <workItem from="1586749369963" duration="22622000" />
       <workItem from="1587117918496" duration="16791000" />
       <workItem from="1587181949525" duration="114009000" />
-      <workItem from="1588039706883" duration="53549000" />
+      <workItem from="1588039706883" duration="98840000" />
+      <workItem from="1589253421169" duration="40776000" />
+      <workItem from="1590224518788" duration="128000" />
+      <workItem from="1590226372675" duration="37021000" />
+      <workItem from="1591771554284" duration="15938000" />
     </task>
     <servers />
   </component>
@@ -365,18 +290,33 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="407" y="99" key="#MainTest/0.23.1440.828@0.23.1440.828" timestamp="1587320621893" />
-    <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587182644310">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="647" y="190" width="652" height="700" key="#Testj_(1)" timestamp="1591865170425">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="647" y="190" width="652" height="700" key="#Testj_(1)/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591865170425" />
+    <state x="647" y="190" width="652" height="700" key="#Testj_(2)" timestamp="1591865949376">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="190" width="652" height="700" key="#Testj_(2)/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591865949376" />
+    <state x="560" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590732322814">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1590732322814" />
+    <state x="624" y="353" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1591864723312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="353" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591864723312" />
+    <state x="624" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589275074413" />
     <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.900@0.0.1440.900" timestamp="1586156412919" />
     <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.828@0.23.1440.828" timestamp="1587182644310" />
-    <state x="1031" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1588821829554">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="1031" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1591779586866">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1031" y="160" key="#com.intellij.ide.util.MemberChooser/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586430378115" />
+    <state x="1031" y="160" key="#com.intellij.ide.util.MemberChooser/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591779586866" />
+    <state x="1031" y="180" key="#com.intellij.ide.util.MemberChooser/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589425374567" />
     <state x="1031" y="173" key="#com.intellij.ide.util.MemberChooser/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588821829554" />
-    <state x="773" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587818381172" />
-    <state x="773" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1588782320617" />
+    <state x="773" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590675979883" />
+    <state x="773" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1590507080004" />
     <state x="773" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1586878440468" />
     <state x="454" y="205" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586878784660">
       <screen x="0" y="23" width="1440" height="830" />
@@ -404,46 +344,66 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="517" y="211" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1587476768780" />
-    <state width="1878" height="129" key="GridCell.Tab.0.bottom" timestamp="1588821583879">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state width="1878" height="213" key="GridCell.Tab.0.bottom" timestamp="1591945679810">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="153" key="GridCell.Tab.0.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587972539838" />
+    <state width="1878" height="213" key="GridCell.Tab.0.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591945679810" />
+    <state width="1878" height="166" key="GridCell.Tab.0.bottom/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589439837805" />
     <state width="1878" height="153" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.0.1920.1031@0.0.1920.1031" timestamp="1587972554286" />
-    <state width="1878" height="129" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588821583879" />
+    <state width="1878" height="213" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.0.1920.1076@0.0.1920.1076" timestamp="1591780419477" />
+    <state width="1878" height="213" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1591867068362" />
+    <state width="1878" height="166" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1590742958989" />
     <state width="1398" height="196" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.1920.1010@0.23.1920.1010" timestamp="1587090021238" />
-    <state width="1398" height="153" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587996869545" />
-    <state width="1398" height="129" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1588782438615" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591434147910" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1590508500420" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1590157729032" />
     <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586879808891" />
-    <state width="1878" height="129" key="GridCell.Tab.0.center" timestamp="1588821583877">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1589391335716" />
+    <state width="1878" height="213" key="GridCell.Tab.0.center" timestamp="1591945679808">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="153" key="GridCell.Tab.0.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587972539837" />
+    <state width="1878" height="213" key="GridCell.Tab.0.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591945679808" />
+    <state width="1878" height="166" key="GridCell.Tab.0.center/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589439837804" />
     <state width="1878" height="153" key="GridCell.Tab.0.center/-1440.203.1440.877/0.0.1920.1031@0.0.1920.1031" timestamp="1587972554284" />
-    <state width="1878" height="129" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588821583877" />
+    <state width="1878" height="213" key="GridCell.Tab.0.center/-1440.203.1440.877/0.0.1920.1076@0.0.1920.1076" timestamp="1591780419475" />
+    <state width="1878" height="213" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1591867068329" />
+    <state width="1878" height="166" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1590742958987" />
     <state width="1398" height="196" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.1920.1010@0.23.1920.1010" timestamp="1587090021237" />
-    <state width="1398" height="153" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587996869544" />
-    <state width="1398" height="129" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1588782438614" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591434147909" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1590508500419" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1590157729030" />
     <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586879808890" />
-    <state width="1878" height="129" key="GridCell.Tab.0.left" timestamp="1588821583877">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1589391335715" />
+    <state width="1878" height="213" key="GridCell.Tab.0.left" timestamp="1591945679807">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="153" key="GridCell.Tab.0.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587972539836" />
+    <state width="1878" height="213" key="GridCell.Tab.0.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591945679807" />
+    <state width="1878" height="166" key="GridCell.Tab.0.left/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589439837804" />
     <state width="1878" height="153" key="GridCell.Tab.0.left/-1440.203.1440.877/0.0.1920.1031@0.0.1920.1031" timestamp="1587972554282" />
-    <state width="1878" height="129" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588821583877" />
+    <state width="1878" height="213" key="GridCell.Tab.0.left/-1440.203.1440.877/0.0.1920.1076@0.0.1920.1076" timestamp="1591780419474" />
+    <state width="1878" height="213" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1591867068327" />
+    <state width="1878" height="166" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1590742958986" />
     <state width="1398" height="196" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.1920.1010@0.23.1920.1010" timestamp="1587090021237" />
-    <state width="1398" height="153" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587996869543" />
-    <state width="1398" height="129" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1588782438613" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591434147908" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1590508500419" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1590157729029" />
     <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586879808890" />
-    <state width="1878" height="129" key="GridCell.Tab.0.right" timestamp="1588821583878">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1589391335715" />
+    <state width="1878" height="213" key="GridCell.Tab.0.right" timestamp="1591945679809">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="153" key="GridCell.Tab.0.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587972539837" />
+    <state width="1878" height="213" key="GridCell.Tab.0.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591945679809" />
+    <state width="1878" height="166" key="GridCell.Tab.0.right/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589439837805" />
     <state width="1878" height="153" key="GridCell.Tab.0.right/-1440.203.1440.877/0.0.1920.1031@0.0.1920.1031" timestamp="1587972554285" />
-    <state width="1878" height="129" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588821583878" />
+    <state width="1878" height="213" key="GridCell.Tab.0.right/-1440.203.1440.877/0.0.1920.1076@0.0.1920.1076" timestamp="1591780419476" />
+    <state width="1878" height="213" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1591867068361" />
+    <state width="1878" height="166" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1590742958987" />
     <state width="1398" height="196" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.1920.1010@0.23.1920.1010" timestamp="1587090021238" />
-    <state width="1398" height="153" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587996869544" />
-    <state width="1398" height="129" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1588782438614" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591434147909" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1590508500419" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1590157729031" />
     <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586879808891" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1589391335716" />
     <state width="1398" height="233" key="GridCell.Tab.1.bottom" timestamp="1587400418058">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
@@ -477,29 +437,41 @@
     </state>
     <state x="548" y="282" key="IDE.errors.dialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586416047731" />
     <state x="411" y="239" key="IDE.errors.dialog/0.23.1440.828@0.23.1440.828" timestamp="1587319972115" />
-    <state x="371" y="49" width="1024" height="828" key="SettingsEditor" timestamp="1588819631694">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="186" y="0" width="1024" height="1080" key="SettingsEditor" timestamp="1591865986236">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="371" y="28" key="SettingsEditor/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587899820418" />
+    <state x="186" y="0" width="1024" height="1080" key="SettingsEditor/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591865986236" />
+    <state x="239" y="224" key="SettingsEditor/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589274977969" />
     <state x="186" y="0" key="SettingsEditor/-1440.203.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1586415777610" />
-    <state x="371" y="49" key="SettingsEditor/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588819631694" />
+    <state x="371" y="49" key="SettingsEditor/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1589253318331" />
     <state x="230" y="23" width="1024" height="828" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587832133048" />
-    <state x="317" y="34" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1587350030162" />
+    <state x="317" y="34" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1590323243939" />
+    <state x="278" y="44" width="900" height="722" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1589097114266" />
     <state x="278" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1586878753508" />
-    <state x="600" y="240" width="720" height="629" key="StructurePopup" timestamp="1588678224755">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="179" y="190" width="727" height="600" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1589383075983" />
+    <state x="450" y="202" width="540" height="518" key="StructurePopup" timestamp="1590329973281">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="600" y="240" width="720" height="629" key="StructurePopup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587968809706" />
+    <state x="600" y="251" width="720" height="661" key="StructurePopup/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589439625836" />
     <state x="600" y="240" width="720" height="629" key="StructurePopup/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588678224755" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1586190673870" />
+    <state x="450" y="202" width="540" height="518" key="StructurePopup/0.23.1440.828@0.23.1440.828" timestamp="1590329973281" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.830@0.23.1440.830" timestamp="1586150559970" />
-    <state x="965" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1588039710799">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="450" y="212" width="540" height="548" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1589089192999" />
+    <state width="1440" height="829" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1589097202841">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1440" height="829" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.23.1440.829@0.23.1440.829" timestamp="1589097202841" />
+    <state x="965" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1591771562606">
+      <screen x="0" y="23" width="1920" height="1005" />
     </state>
     <state x="639" y="372" key="com.intellij.ide.util.TipDialog/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586315930444" />
+    <state x="965" y="190" key="com.intellij.ide.util.TipDialog/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589253433555" />
+    <state x="965" y="182" key="com.intellij.ide.util.TipDialog/-1440.203.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1591771562606" />
     <state x="965" y="182" key="com.intellij.ide.util.TipDialog/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588039710799" />
     <state x="724" y="142" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586749508330" />
-    <state x="724" y="154" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1587182020105" />
+    <state x="724" y="154" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1590226498533" />
     <state x="432" y="333" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586878668377">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
@@ -508,30 +480,39 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="492" y="145" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.830@0.23.1440.830" timestamp="1586878813574" />
-    <state x="698" y="198" key="extract.method.dialog" timestamp="1586147394850">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state x="862" y="282" key="extract.method.dialog" timestamp="1589390620731">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="931" y="236" key="extract.method.dialog/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588831847589" />
     <state x="698" y="198" key="extract.method.dialog/0.23.1440.830@0.23.1440.830" timestamp="1586147394850" />
-    <state x="515" y="118" width="916" height="817" key="find.popup" timestamp="1588759023468">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="862" y="282" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1589390620731" />
+    <state x="386" y="85" width="837" height="729" key="find.popup" timestamp="1590676277568">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="515" y="118" width="916" height="817" key="find.popup/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588759023468" />
-    <state x="386" y="85" width="687" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1587476837113" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1588761092281">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="386" y="85" width="837" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590676277568" />
+    <state x="386" y="101" width="837" height="672" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1590504335121" />
+    <state width="964" height="494" key="javadoc.popup" timestamp="1591778362505">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="964" height="494" key="javadoc.popup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587972466641" />
-    <state width="600" height="440" key="javadoc.popup/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588761092281" />
+    <state width="964" height="494" key="javadoc.popup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591778362505" />
+    <state width="600" height="440" key="javadoc.popup/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588831086985" />
     <state width="851" height="420" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1587995011120" />
-    <state width="851" height="387" key="javadoc.popup/0.23.1440.828@0.23.1440.828" timestamp="1588091802354" />
+    <state width="761" height="387" key="javadoc.popup/0.23.1440.828@0.23.1440.828" timestamp="1588868477127" />
     <state width="723" height="379" key="javadoc.popup/0.23.1440.830@0.23.1440.830" timestamp="1586879430967" />
-    <state x="833" y="210" width="894" height="823" key="search.everywhere.popup" timestamp="1588751233095">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="430" y="68" key="refactoring.ChangeSignatureDialog" timestamp="1589301152340">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="833" y="200" width="894" height="881" key="search.everywhere.popup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1587457670182" />
+    <state x="430" y="68" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1589301152340" />
+    <state x="833" y="200" width="894" height="881" key="search.everywhere.popup" timestamp="1591944709918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="833" y="200" width="894" height="881" key="search.everywhere.popup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1591944709918" />
+    <state x="833" y="219" width="895" height="864" key="search.everywhere.popup/-1440.203.1440.828/0.23.1920.1057@0.23.1920.1057" timestamp="1589273391045" />
     <state x="833" y="210" width="894" height="823" key="search.everywhere.popup/-1440.203.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1588751233095" />
     <state x="625" y="167" width="670" height="734" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587817072613" />
-    <state x="625" y="177" width="670" height="675" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1587314676798" />
+    <state x="625" y="177" width="670" height="675" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1590296445842" />
+    <state x="625" y="177" width="671" height="677" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1589095219047" />
     <state x="625" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1586877564217" />
   </component>
   <component name="XDebuggerManager">

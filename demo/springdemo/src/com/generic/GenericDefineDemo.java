@@ -1,7 +1,6 @@
 package com.generic;
 
-import com.bean.Person;
-import com.bean.Student;
+import com.bean.Student2;
 
 /**
  *
@@ -12,9 +11,13 @@ import com.bean.Student;
  */
 public class GenericDefineDemo {
     public static void main(String[] args) {
-        Tool tool = new Tool();
+       /* Tool tool = new Tool();
         tool.setObject(new Person());
         Object object = tool.getObject();
-        Student student = (Student)object;
+        Student student = (Student)object;*/
+        Tool<Student2> tool = new Tool<Student2>();
+        tool.setObject(new Student2());
+        Student2 stu = tool.getObject();
+
     }
 }
