@@ -1,8 +1,12 @@
 package com.spring.jdbctemplate.book.controller;
 
 import com.spring.jdbctemplate.book.service.BookService;
+import com.spring.jdbctemplate.book.service.Cashier;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -17,8 +21,19 @@ public class BookController {
     @Autowired
     private BookService service;
 
+    @Autowired
+    private Cashier cashier;
+
     public void buyBook(){
         service.buyBook("1", "1001");
+    }
+
+    public void checkOut(){
+        List<String> bids = new ArrayList<>();
+        bids.add("1");
+        bids.add(String.valueOf(2));
+        System.out.println(bids);
+        cashier.checkOut("1001", bids);
     }
 
 }

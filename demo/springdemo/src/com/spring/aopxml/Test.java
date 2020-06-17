@@ -9,6 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * @package com.spring.aopxml
  * @date 2020/4/14 上午12:17
  */
+//不导包默认用当前包下
 public class Test {
     public static void main(String[] args) {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("aopxml.xml");

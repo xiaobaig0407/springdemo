@@ -1,5 +1,6 @@
 package com.spring.jdbctemplate.book.dao;
 
+import com.spring.jdbctemplate.book.exception.MyException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
@@ -44,7 +45,7 @@ public class BookDaoImpl implements BookDao {
                 new Object[]{uid},
                 Integer.class);
         if(balan <price){
-            throw new RuntimeException("wrong");
+           throw new MyException("祭额不足");
         }else{
             jdbcTemplate.update("update money set balance = balance - ? where id = ?", price, uid);
         }

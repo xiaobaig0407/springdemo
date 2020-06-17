@@ -1,12 +1,12 @@
 package com.spring.aop;
 
 import org.aspectj.lang.JoinPoint;
-import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.*;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
+
 
 
 /**
@@ -24,7 +24,7 @@ import java.util.Arrays;
  * 切入点：切面作用于横切关注点的位置,使用切面的条件，表达式定义了当前切面作用到谁即哪个目标函数，通过切入点定位到连接点
  * 切面中的通知作用于连接点的条件
  */
-@Component
+@Component  //因为要实现spring功能，所以要把切面当成一个组件，进行加载之后aspectj才起作用
 @Aspect
 @Order(33)//定义切面的优先级，值越小优先级越高，默认值为int最大值
 //标注当前类为切面
@@ -32,7 +32,7 @@ public class MyLoggerAspect {
     //定义一个公共切入点
     @Pointcut(value = "execution(* com.spring.aop.*.*(..))")
     public void test() {
-
+        System.out.println("common 切入点");
     }
 
     /**
@@ -54,12 +54,14 @@ public class MyLoggerAspect {
     //..代表任意的参数列表
 //    @Before(value = "execution(public int com.spring.aop.MathImpl.*(..))")
     // @Before(value = "execution(* com.spring.aop.*.*(..))")
+//    不用写excution因为和公共切入点PointCut是一样的
+    //使用test方法定义的切入点
     @Before(value = "test() ")
     public void beforeMethod(JoinPoint joinPoint) {
         Object[] args = joinPoint.getArgs();//获取方法的参数
         String methodName = joinPoint.getSignature().getName();//获取方法名
-        System.out.println("method:" + methodName + "arguments:" + Arrays.toString(args));
-//        System.out.println("前置通知");
+        System.out.println("method:" + methodName + " arguments:" + Arrays.toString(args));
+        System.out.println("前置通知");
 
     }
 
@@ -68,32 +70,38 @@ public class MyLoggerAspect {
      */
     @After(value = "test()")
     public void afterMethod() {
-//        System.out.println("后置通知");
+        System.out.println("后置通知");
     }
 
     /**
-     * @AfterReturning:将方法标注为返回通知 返回通知：作用于方法执行之后
+     * @AfterReturning:将方法标注为返回通知 返回通知：作用于方法执行之后，try块
      * 可通过returning设置接收方法返回值的变量名
+     * 当把返回通知作用到连接点之后，方法执行之后，它会将最终方法的结果赋值给object类型的result
      * 要想在方法使用，必须在方法的形参中设置和变量名相同的参数名的参数
      */
 //    @AfterReturning(value = "execution(* com.spring.aop.*.*(..)))", returning = "result")
     @AfterReturning(value = "test()", returning = "result")
     public void afterRunning(JoinPoint joinPoint, Object result) {
         String methodNmae = joinPoint.getSignature().getName();
-//        System.out.println("method:"+methodNmae+"result:"+result);
-//        System.out.println("返回通知");
+        System.out.println("返回通知");
+        System.out.println("method:"+methodNmae+" result:"+result);
+
     }
 
     /***
      * @AfterThowing:将方法标注为异常通知（例外通知）
      * 异常通知：作用于方法抛出异常时
      * 也可以通过throwing设置接收方法返回的异常信息
-     * 在参数列表中可通过具体的异常类型对指定的异常信息
+     * 在参数列表中可通过具体的异常类型对指定的异常信息进行操作
+     *
+     *通过定义异常的类型来操作当我抛出了什么异常后我才需要进行操作，处理指定异常
      */
     @AfterThrowing(value = "execution(* com.spring.aop.*.*(..))", throwing = "ex")
     public void afterThrowingMethod(Exception ex) {
         System.out.println("有异常了" + ex);
     }
+
+
 
     /*@Around(value = "execution(* com.spring.aop.*.*(..))")
     public Object arroundMethod(ProceedingJoinPoint proceedingJoinPoint) {

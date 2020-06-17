@@ -33,6 +33,7 @@ public class MathImpl implements MathI {
     @Override
     public int div(int i, int j) {
         int result = i / j;
+        System.out.println("get result "+result);
         return result;
     }
 

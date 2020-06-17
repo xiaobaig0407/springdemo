@@ -22,9 +22,10 @@
     <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
         <property name="dataSource" ref="dataSource"></property>
     </bean>
-   
+
     <!--    事务针对于链接对象connection,connection由数据源创造出来-->
     <!--    配置事务管理器：依赖于数据源(即德路伊链接池)产生的链接对象 -->
+    <!--    管理property：一个数据源（数据库链接池）产生的链接对象-->
     <bean id="DataSourceTransactionManager"
           class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
         <property name="dataSource" ref="dataSource"></property>

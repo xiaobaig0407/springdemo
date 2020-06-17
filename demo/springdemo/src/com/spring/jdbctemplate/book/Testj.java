@@ -17,6 +17,6 @@ public class Testj {
         BookController bookController = applicationContext.getBean("bookController",
                 BookController.class);
         bookController.buyBook();
-
+      //  bookController.checkOut();
     }
 }
